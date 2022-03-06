@@ -3,7 +3,7 @@
 Меня зовут Алекcандр и я Ruby разработчик в [@brandymint](https://github.com/brandymint)
 
 ## [kiiiosk](https://kiiiosk.store/) (2018 - н.в.)
-Платформа интернет-магазинов\
+E-commerce платформа интернет-магазинов\
 Киоск дает возможность продавать, не нанимая дизайнеров и без программистов
 * Интеграция сервисов оплаты (yoomoney, cloudpayments, robokassa, сбер, тиньков и тд)
 * Интеграция онлайн касс (aqsi, kassatka, lifepay)
