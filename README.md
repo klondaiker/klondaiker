@@ -7,7 +7,7 @@
 E-commerce решения для Саудовской Аравии на основе [kiiiosk](https://kiiiosk.store/)\
 Стэк:\
 RoR/ReactJS\
-Docker
+Docker/Kubernetes
 * ECR (Sales managment platform) (Смены кассира, рефанды, движения по складам и тд)
 * Подключение шлюза Geidea Payment Platform
 * Редизайн UI под арабский язык (RTL)
