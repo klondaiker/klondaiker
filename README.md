@@ -6,7 +6,8 @@
 ## [Geidea](https://geidea.net/) (2020 - н.в.)
 E-commerce решения для Саудовской Аравии на основе [kiiiosk](https://kiiiosk.store/)\
 Стэк:\
-RoR/ReactJS
+RoR/ReactJS\
+Docker
 * ECR (Sales managment platform) (Смены кассира, рефанды, движения по складам и тд)
 * Подключение шлюза Geidea Payment Platform
 * Редизайн UI под арабский язык (RTL)
